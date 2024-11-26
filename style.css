@@ -96,11 +96,11 @@ textarea::placeholder{
     margin-top: 10px;
     width: 150px;
     height: 30px;
-    background: darkred;
+    background: orange;
     transition: 0.5s;
     color: white;
     border-radius: 8px;
 }
 .buttonContainer button:hover{
-    background: red;
+    background: yellow;
 }
